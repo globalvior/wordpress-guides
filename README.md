@@ -43,9 +43,9 @@ Explore useful plugins that improve functionality, performance, and security.
 Visit Globalvior for detailed tutorials and reviews:
 
 - https://globalvior.com
-- https://globalvior.com/category/wordpress/
-- https://globalvior.com/category/web-hosting/
-- https://globalvior.com/category/ai-tools/
+- https://globalvior.com/wordpress-seo-plugin/
+- https://globalvior.com/category/types-of-web-hosting/
+- https://globalvior.com/best-ai-website-builders-of-2026/
 
 ## Contributing
 
