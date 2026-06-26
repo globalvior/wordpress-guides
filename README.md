@@ -44,7 +44,7 @@ Visit Globalvior for detailed tutorials and reviews:
 
 - https://globalvior.com
 - https://globalvior.com/wordpress-seo-plugin/
-- https://globalvior.com/category/types-of-web-hosting/
+- https://globalvior.com/types-of-web-hosting/
 - https://globalvior.com/best-ai-website-builders-of-2026/
 
 ## Contributing
