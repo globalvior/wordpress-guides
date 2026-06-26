@@ -57,7 +57,7 @@ If you'd like to contribute, feel free to open an issue or submit a pull request
 
 Website: https://globalvior.com
 
-LinkedIn: https://www.linkedin.com/company/globalvior
+LinkedIn: https://www.linkedin.com/in/globalvior-editorial-team-06824b419/
 
 Pinterest: https://www.pinterest.com/globalvior
 
